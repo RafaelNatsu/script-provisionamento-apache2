@@ -1,5 +1,5 @@
 # script-provisionamento-apache2
-    Script para provisionamento de um servidor Apache (projeto integrante do curso de Linux da DIO)
+Script para provisionamento de um servidor Apache (projeto integrante do curso de Linux da DIO)
 
 # Explicações
     
